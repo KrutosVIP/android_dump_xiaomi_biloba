@@ -1,0 +1,19 @@
+## biloba-user 12 SP1A.210812.016 V13.0.9.0.SCUMIXM release-keys
+- Manufacturer: xiaomi
+- Platform: mt6768
+- Codename: biloba
+- Brand: Redmi
+- Flavor: biloba-user
+- Release Version: 12
+- Kernel Version: 4.14.186
+- Id: SP1A.210812.016
+- Incremental: V13.0.9.0.SCUMIXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Locale: en-GB
+- Screen Density: 440
+- Fingerprint: Redmi/biloba_global/biloba:12/SP1A.210812.016/V13.0.9.0.SCUMIXM:user/release-keys
+- OTA version: 
+- Branch: biloba-user-12-SP1A.210812.016-V13.0.9.0.SCUMIXM-release-keys
+- Repo: redmi_biloba_dump
